@@ -5,7 +5,7 @@
 ## 📱 介面預覽 (Interface Preview)
 
 <div align="center">
-  <img src="<把你的圖片連結放這裡>" alt="App Interface" width="300" />
+  <img src="music_app_example.jpg" alt="App Interface" width="300" />
 </div>
 
 > *系統介面展示：包含播放控制、歌曲封面與動態背景。*
@@ -70,5 +70,6 @@
 
 ## 📝 作者 (Author)
 
+* **Name**: 楊浤立
 * **Student ID**: 01157025
 * **Created Date**: 2025/1/3
